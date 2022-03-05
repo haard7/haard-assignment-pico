@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const authRoutes = require('./routes/authRoutes');
 const cookieParser = require('cookie-parser');
 const { requireAuth, checkUser } = require('./middleware/authMiddleware');
-require('dotenv').config();
+require('dotenv').config({ path: '.env' });
 
 const app = express();
 const port = process.env.PORT || 5000
@@ -17,7 +17,7 @@ app.set('view engine', 'ejs');
 
 // database connection
 // const dbURI = '';
-mongoose.connect(process.env.DBURI, { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex:true })
+mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex:true })
   .then((result) => app.listen(3000))
   .catch((err) => console.log(err));
 
