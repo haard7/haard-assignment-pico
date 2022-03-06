@@ -29,7 +29,7 @@ As I am not using local database but I  use MongoDB cloud to store the data.
 
 ## Hosted project  link  👇 
  
-### [https://pico-auth-assignment.herokuapp.com/](https://pico-auth-assignment.herokuapp.com/)
+### [https://https://login-app-pico.herokuapp.com/](https://https://login-app-pico.herokuapp.com/)
 
 ## Here is video link of running this code on browser 👇
 
