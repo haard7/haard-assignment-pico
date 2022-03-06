@@ -13,8 +13,8 @@ I have used **NodeJS** language for this assignment.
 
 type below command in your ommand line to run this project locally.  
 
-You Need to put your own mongo-atlas access key before running the project. 
-refer [this](https://www.youtube.com/watch?v=tpz-6Trd1UI) link to learn about that key and how to use</br>
+**You Need to put your own mongo-atlas access key before running the project. 
+refer [this](https://www.youtube.com/watch?v=tpz-6Trd1UI) link to learn about that key and how to use</br>**
 
 As I am not using local database but I  use MongoDB cloud to store the data. 
 
@@ -31,6 +31,9 @@ As I am not using local database but I  use MongoDB cloud to store the data.
  
 ### [https://pico-auth-assignment.herokuapp.com/](https://pico-auth-assignment.herokuapp.com/)
 
+## Here is video link of running this code on browser 👇
+
+#### [https://youtu.be/iymfC3quwwg](https://youtu.be/iymfC3quwwg)
 
 ## Folder structure
 ```bash
