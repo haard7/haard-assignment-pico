@@ -73,3 +73,9 @@ As I am not using local database but I  use MongoDB cloud to store the data.
             header.ejs
 ```
 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haard-patel-73b001196)
+
+
+
