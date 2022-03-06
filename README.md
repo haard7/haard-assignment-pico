@@ -35,6 +35,16 @@ As I am not using local database but I  use MongoDB cloud to store the data.
 
 #### [https://youtu.be/iymfC3quwwg](https://youtu.be/iymfC3quwwg)
 
+
+## Tech Stack used
+
+- HTML, CSS, JS (For Frontend)
+- NodeJS (For server side programming)
+- MongoDB cloud (as Database)
+- Packages (Express, mongoose, ejs, cookie-parser, jasonwebtoken (JWT), Validator)
+
+
+
 ## Folder structure
 ```bash
 .
