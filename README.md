@@ -27,4 +27,41 @@ type below command in your ommand line to run this project locally.
 ### [https://pico-auth-assignment.herokuapp.com/](https://pico-auth-assignment.herokuapp.com/)
 
 
+## Folder structure
+```bash
+.
+│   .gitignore
+│   app.js
+│   config.env
+│   package-lock.json
+│   package.json
+│   Procfile
+│
+├───controllers
+│       authController.js
+│
+├───middleware
+│       authMiddleware.js
+│
+├───models
+│       User.js
+│
+├───public
+│       logo.png
+│       styles.css
+│
+├───routes
+│       authRoutes.js
+│
+└───views
+    │   home.ejs
+    │   login.ejs
+    │   pico.ejs
+    │   signup.ejs
+    │
+    └───partials
+            background.ejs
+            footer.ejs
+            header.ejs
+```
 
